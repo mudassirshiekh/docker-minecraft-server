@@ -7,7 +7,7 @@
 [![Documentation Status](https://readthedocs.org/projects/docker-minecraft-server/badge/?version=latest)](https://docker-minecraft-server.readthedocs.io/en/latest/?badge=latest)
 
  [![Read the docs](docs/img/docs-banner.png)](https://docker-minecraft-server.readthedocs.io/)
-
+## By Mudassir Alam
 There you will find things like
 - [Quick start with Docker Compose](https://docker-minecraft-server.readthedocs.io/en/latest/#using-docker-compose)
 - Running [different versions of Minecraft](https://docker-minecraft-server.readthedocs.io/en/latest/versions/minecraft/) and using [various server types](https://docker-minecraft-server.readthedocs.io/en/latest/types-and-platforms/) for Java Edition
